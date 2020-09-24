@@ -1,0 +1,15 @@
+.loginBG{
+    background-color: gray;
+    height:100vh;
+}
+.img{
+    margin-right: 1px;
+    width: 20px;
+    color: black;
+}
+button{
+    background-color:#F9A617;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+}
